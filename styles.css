@@ -1,0 +1,64 @@
+
+
+body {
+    background-color: #0d1117;
+    color: #dddddd;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+    display: flex;
+    min-height: 100vh;
+
+}
+
+.navbar {
+    position: fixed;
+    width: 20%;
+    outline-width: 5px;
+    outline-color: #ffffff;
+}
+
+.navbar li {
+    font-size: 25px;
+}
+
+.navbar li a:visited {
+    color: #ffffff;
+}
+
+.navbar li a:link {
+    color: #ffffff;
+}
+
+.sub {
+    margin-left: 20%;
+    width: 78%;
+}
+
+h1 {
+    font-size: 55px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 35px;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    color: #bbbbbb;
+    text-align: justify;
+}
+
+li {
+    font-size: 30px;
+}
+
+.imp {
+    color: #cccccc;
+    font-weight: bold;
+}
+
+.lists {
+    display: flex;
+    gap: 100px;
+}
